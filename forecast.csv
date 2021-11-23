@@ -1,0 +1,7 @@
+Day,City with highest temp,City with lowest temp,Cities with rain
+23,Dubai,New York,"Athens,Singapore"
+24,Singapore,New York,"Lisbon,Athens,Singapore"
+25,Singapore,Oslo,"Lisbon,Singapore"
+26,Singapore,Oslo,"New York,Lisbon,Paris,Athens,Singapore"
+27,Dubai,Oslo,"New York,Lisbon,Paris,Athens,Singapore"
+28,Singapore,Oslo,"Lisbon,Athens,Singapore"
